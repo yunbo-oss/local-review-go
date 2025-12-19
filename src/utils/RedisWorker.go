@@ -2,7 +2,7 @@ package utils
 
 import (
 	"context"
-	"hmdp-Go/src/config/redis"
+	"local-review-go/src/config/redis"
 	"time"
 )
 

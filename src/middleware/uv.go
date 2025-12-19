@@ -3,10 +3,10 @@ package middleware
 import (
 	"context"
 	"github.com/gin-gonic/gin"
-	"hmdp-Go/src/utils"
+	"local-review-go/src/utils"
 
 	"github.com/sirupsen/logrus"
-	redisClient "hmdp-Go/src/config/redis"
+	redisClient "local-review-go/src/config/redis"
 	"strconv"
 	"time"
 )

@@ -3,10 +3,10 @@ package service
 import (
 	"context"
 	"github.com/sirupsen/logrus"
-	"hmdp-Go/src/config/redis"
-	"hmdp-Go/src/dto"
-	"hmdp-Go/src/model"
-	"hmdp-Go/src/utils"
+	"local-review-go/src/config/redis"
+	"local-review-go/src/dto"
+	"local-review-go/src/model"
+	"local-review-go/src/utils"
 	"strconv"
 	"time"
 )

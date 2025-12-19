@@ -7,7 +7,7 @@ import (
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/sync/singleflight"
-	"hmdp-Go/src/dto"
+	"local-review-go/src/dto"
 	"net/http"
 	"time"
 )
@@ -18,7 +18,7 @@ var control = &singleflight.Group{}
 var jwtInstance = NewJWT()
 
 const (
-	JWT_SECRET_KEY     = "hmdp key"
+	JWT_SECRET_KEY     = "local-review key"
 	JWT_ISSUER         = "loser"
 	JWT_TOKEN_KEY      = "authorization"
 	TokenRefreshBuffer = 30 * time.Minute // 刷新阈值

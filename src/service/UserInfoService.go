@@ -1,6 +1,6 @@
 package service
 
-import "hmdp-Go/src/model"
+import "local-review-go/src/model"
 
 type UserInfoService struct {
 }

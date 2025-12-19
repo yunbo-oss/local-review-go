@@ -2,7 +2,7 @@ package handler
 
 import (
 	"github.com/gin-gonic/gin"
-	"hmdp-Go/src/middleware"
+	"local-review-go/src/middleware"
 	"net/http"
 )
 

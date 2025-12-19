@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/jinzhu/gorm"
 	"github.com/sirupsen/logrus"
-	"hmdp-Go/src/config/mysql"
-	"hmdp-Go/src/utils"
+	"local-review-go/src/config/mysql"
+	"local-review-go/src/utils"
 	"strings"
 	"time"
 )

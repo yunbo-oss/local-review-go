@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"errors"
 	redisConfig "github.com/redis/go-redis/v9"
-	redisClient "hmdp-Go/src/config/redis"
-	"hmdp-Go/src/model"
-	"hmdp-Go/src/utils"
+	redisClient "local-review-go/src/config/redis"
+	"local-review-go/src/model"
+	"local-review-go/src/utils"
 )
 
 type ShopTypeService struct {

@@ -1,4 +1,4 @@
-module hmdp-Go
+module local-review-go
 
 go 1.24.0
 

@@ -4,9 +4,9 @@ import (
 	"context"
 	"github.com/gin-gonic/gin"
 	"github.com/sirupsen/logrus"
-	redisClient "hmdp-Go/src/config/redis"
-	"hmdp-Go/src/dto"
-	"hmdp-Go/src/utils"
+	redisClient "local-review-go/src/config/redis"
+	"local-review-go/src/dto"
+	"local-review-go/src/utils"
 	"net/http"
 	"time"
 )
