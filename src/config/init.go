@@ -1,8 +1,8 @@
 package config
 
 import (
-	"hmdp-Go/src/config/mysql"
-	"hmdp-Go/src/config/redis"
+	"local-review-go/src/config/mysql"
+	"local-review-go/src/config/redis"
 )
 
 func Init() {

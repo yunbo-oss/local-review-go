@@ -2,7 +2,7 @@ package model
 
 import (
 	"gorm.io/gorm/clause"
-	"hmdp-Go/src/config/mysql"
+	"local-review-go/src/config/mysql"
 	"time"
 )
 

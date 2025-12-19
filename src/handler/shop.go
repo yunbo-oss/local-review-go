@@ -3,9 +3,9 @@ package handler
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/sirupsen/logrus"
-	"hmdp-Go/src/dto"
-	"hmdp-Go/src/model"
-	"hmdp-Go/src/service"
+	"local-review-go/src/dto"
+	"local-review-go/src/model"
+	"local-review-go/src/service"
 	"net/http"
 	"strconv"
 )

@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"hmdp-Go/src/dto"
+	"local-review-go/src/dto"
 	"testing"
 )
 

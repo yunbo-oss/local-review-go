@@ -2,7 +2,7 @@ package model
 
 import (
 	_ "github.com/jinzhu/gorm"
-	"hmdp-Go/src/config/mysql"
+	"local-review-go/src/config/mysql"
 	"time"
 )
 

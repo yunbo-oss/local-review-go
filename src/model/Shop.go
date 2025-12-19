@@ -3,8 +3,8 @@ package model
 import (
 	"fmt"
 	"github.com/jinzhu/gorm"
-	"hmdp-Go/src/config/mysql"
-	"hmdp-Go/src/utils"
+	"local-review-go/src/config/mysql"
+	"local-review-go/src/utils"
 	"strconv"
 	"strings"
 	"time"

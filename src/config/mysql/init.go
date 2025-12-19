@@ -12,7 +12,7 @@ const (
 	USER         string = "root"
 	PASSWORD     string = "8888.216"
 	PORT         string = "3306"
-	DATABASENAME string = "hmdp_go"
+	DATABASENAME string = "local_review_go"
 	ADDR         string = "127.0.0.1"
 )
 

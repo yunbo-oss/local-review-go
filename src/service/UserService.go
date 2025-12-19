@@ -4,11 +4,11 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	redisClient "hmdp-Go/src/config/redis"
-	"hmdp-Go/src/dto"
-	"hmdp-Go/src/middleware"
-	"hmdp-Go/src/model"
-	"hmdp-Go/src/utils"
+	redisClient "local-review-go/src/config/redis"
+	"local-review-go/src/dto"
+	"local-review-go/src/middleware"
+	"local-review-go/src/model"
+	"local-review-go/src/utils"
 	"time"
 )
 

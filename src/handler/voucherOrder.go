@@ -2,9 +2,9 @@ package handler
 
 import (
 	"github.com/gin-gonic/gin"
-	"hmdp-Go/src/dto"
-	"hmdp-Go/src/middleware"
-	"hmdp-Go/src/service"
+	"local-review-go/src/dto"
+	"local-review-go/src/middleware"
+	"local-review-go/src/service"
 	"net/http"
 	"strconv"
 )

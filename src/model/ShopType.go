@@ -1,7 +1,7 @@
 package model
 
 import (
-	"hmdp-Go/src/config/mysql"
+	"local-review-go/src/config/mysql"
 	"time"
 )
 
